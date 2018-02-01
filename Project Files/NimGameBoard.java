@@ -1,4 +1,4 @@
-/* Author: Sonya McCree, smccree@bu.edu
+/* Author: smccree
  * Date: 18 February 2017
  * Purpose: CS 591 HW01 | Constructor for the Nim Game Board      
  */
