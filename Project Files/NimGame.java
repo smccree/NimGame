@@ -1,4 +1,4 @@
-/*Author: Sonya McCree, smccree@bu.edu
+/*Author: smccree
  * File: NimGame.java
  * Date: 18 February 2017
  * Purpose: CS 591 HW01, Problem 4: Build a Nim Game | This is the user interface
